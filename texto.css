@@ -1,0 +1,19 @@
+#receita {
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	margin-left: 10px;
+}
+
+header {
+margin:40px;
+}
+
+figure {
+	float: left;
+	margin-left: : 0px, 10px, 0px;
+}
+
+div.ingrediente {
+	clear: both;
+	margin:40px;
+
+}
